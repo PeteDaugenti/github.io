@@ -1,10 +1,10 @@
-{
-    "name": "Gala Apples",
-    "price": 2
-},
-{
-    "name": "Gala Apples",
-    "price": 2
-}
-
-
+[
+    {
+        "name": "Gala Apples",
+        "price": 2
+    },
+    {
+        "name": "Bananas",
+        "price": 1
+    }
+]
